@@ -1,0 +1,8 @@
+An operating system is software that manages a computer’s hardware. It
+also provides a basis for application programs and acts as an intermediary
+between the computer user and the computer hardware. An amazing aspect
+of operating systems is how they vary in accomplishing these tasks in a wide
+variety of computing environments. Operating systems are everywhere, from
+cars and home appliances that include “Internet of Things” devices, to smart
+phones, personal computers, enterprise computers, and cloud computing envi-
+ronments.
